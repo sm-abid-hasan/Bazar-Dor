@@ -57,11 +57,15 @@ export default function UpdateProfileForm({ currentName }) {
           {error}
         </p>
       )}
-
-      <button type="submit" className={`${btnPrimary} w-full`} disabled={loading}>
+      <button
+        type="submit"
+        className={`${btnPrimary} w-full`}
+        disabled={loading}
+      >
         {loading && <span className="loading loading-spinner loading-xs" />}
         তথ্য আপডেট করুন
       </button>
     </form>
   );
+ 
 }
