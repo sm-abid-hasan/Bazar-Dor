@@ -28,4 +28,4 @@ Product and market-price information is supplied by the project's configured ext
 2. Daily Price Increases and Decreases
 3. Product Browsing, Category Filtering, and Price Sorting
 4. Market-wise Price Comparison
-5. User Authentication and Profile ManagementAccount and profile management** — Supports account registration and sign-in with email/password or configured Google and GitHub providers, plus profile viewing, name updates, and sign-out.
+5. User Authentication and Profile ManagementAccount and profile management — Supports account registration and sign-in with email/password or configured Google and GitHub providers, plus profile viewing, name updates, and sign-out.
